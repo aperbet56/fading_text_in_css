@@ -4,6 +4,9 @@
 
 Création de la fonctionnalité : Fading text en CSS3.
 
+La propriété max-width et overflow:hidden permettent de restreindre la taille du container et de couper le reste du texte pour éviter qu'il ne déborde.
+La propriété mask-image fournit un masque qui cache une partie de l'élément auquel il est appliqué.
+
 ## Démonstration
 
 Lien vers le projet : https://aperbet56.github.io/fading_text_in_css/
