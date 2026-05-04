@@ -1,0 +1,68 @@
+/**** Reset ****/
+
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    border: none;
+    outline: none;
+}
+
+/**** body ****/
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f0e17;
+    padding-inline: 16px;
+}
+
+/**** div card ****/
+
+.card {
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #fffffe;
+    max-width: 410px;
+    width: 100%;
+}
+
+h2 {
+    font-size: 24px;
+    color: #0f0e17;
+    margin-bottom: 20px;
+    font-family: "Alata", sans-serif;
+}
+
+.fade__text__container {
+    max-height: 150px;
+    overflow: hidden;
+    mask-image: linear-gradient(to bottom, #2e2f3e 40%, transparent 100%);
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+button {
+    margin-top: 20px;
+    background-color: #ff8906;
+    color: #fffffe;
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: "Josefin Sans", sans-serif;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #e53170;
+}
