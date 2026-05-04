@@ -6,7 +6,7 @@ Création de la fonctionnalité : Fading text en CSS3.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/fading_text_in_css/
 
 ## Projet développé avec
 
