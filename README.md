@@ -1,10 +1,12 @@
 ## FONCTIONNALITE FADING TEXT EN CSS3
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création de la fonctionnalité : Fading text en CSS3.
 
-Pour se faire, j'ai eu recours à différentes propriétés CSS:
+Pour se faire, j'ai eu recours à différentes propriétés CSS :
 
 - La propriété max-width et overflow: hidden permettent de restreindre la taille du container et de couper le reste du texte pour éviter qu'il ne déborde.
 - La propriété mask-image fournit un masque qui cache une partie de l'élément auquel il est appliqué.
