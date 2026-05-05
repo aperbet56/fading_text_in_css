@@ -27,3 +27,5 @@ Lien vers le projet : https://aperbet56.github.io/fading_text_in_css/
 - Commentaires CSS
 - Utilisation d'un normaliseur : le fichier normalize.css
 - Importation des polices "Alata" et "Josefin Sans"
+- Utilisation de la propriété CSS mask-image
+- Utilisation de la propriété CSS max-width
